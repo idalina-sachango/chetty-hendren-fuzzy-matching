@@ -1,6 +1,6 @@
 # First round
 
-JaroWinkler algorithm with threhshold of 0.97 similarity
+JaroWinkler algorithm with threshold of 0.97 similarity
 
 # Second round iteration
 
